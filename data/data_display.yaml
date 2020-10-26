@@ -1,0 +1,11 @@
+#如果报错"gbk"，那么请把此yaml文件转换为gbk编码：右键本文件空白处-》File encoding-》GBK！
+test_key1: #这个Key一般和测试函数名同名
+  K001: #测试用例编号
+    name: "张三" #用户名
+    pwd: "pwd1234"
+  K002:
+    name: "李四"
+    pwd: "pwd4567"
+  K003:
+    name: "王五"
+    pwd: "pwd7890"
